@@ -11,9 +11,9 @@
 
     <properties>
         <!-- Versión de Java que usarás -->
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+   <properties>
+  <sonar.organization>andresitogutu04</sonar.organization>
+</properties>
     </properties>
 
     <dependencies>
